@@ -37,12 +37,8 @@ Here are some ideas to get you started:
 -->
 
 ### Top Repositories
-<a href="https://github.com/hooj0/sensitive-words-filter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hooj0&repo=sensitive-words-filter&theme=dracula" />
-</a>
-<a href="https://github.com/hooj0/spring-data-fabric-chaincode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hooj0&repo=spring-data-fabric-chaincode&theme=dracula" />
-</a>
+| <a href="https://github.com/hooj0/sensitive-words-filter">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hooj0&repo=sensitive-words-filter&theme=dracula" />  </a> | <a href="https://github.com/hooj0/spring-data-fabric-chaincode">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hooj0&repo=spring-data-fabric-chaincode&theme=dracula" />  </a> |
+|----|----|
   
 ### Get In Touch ☕
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hooj0)
