@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently an ordinary programmer working in Guangzhou, China 🇨🇳. 
-- 🔝 I come here occasionally to fool around 😼.
+- 🔭 I’m currently an ordinary programmer working in Guangzhou, China 🇨🇳
+- 🔝 I come here occasionally to fool around 😼
 - 💬 Ask me about anything [here](https://github.com/hooj0/hooj0/issues)
 
 ### Languages and Tools:
